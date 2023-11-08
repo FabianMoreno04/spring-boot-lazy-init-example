@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sandra liliana
+Build-Jdk: 17.0.6
+Implementation-Title: spring-boot-lazy-init-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.techprimers.lazy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-lazy-init-example
+Created-By: Maven Integration for Eclipse
+
